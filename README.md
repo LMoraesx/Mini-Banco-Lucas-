@@ -1,5 +1,5 @@
 # Mini-Banco-Lucas-
-Projeto de um sistema sobre Mini Banco, utilizando a linguagem Java, utilizando os conceitos que utilizamos em java.
+Projeto de um sistema sobre Mini Banco, para realizarmos saques, depositos.
 
 As funcionalidades deste sistema, são 
 1 - Depositar 
